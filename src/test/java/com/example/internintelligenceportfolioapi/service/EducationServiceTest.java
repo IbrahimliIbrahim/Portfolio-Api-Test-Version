@@ -278,4 +278,5 @@ class EducationServiceTest {
             verify(educationRepository).deleteById(1);
         }
     }
+
 }

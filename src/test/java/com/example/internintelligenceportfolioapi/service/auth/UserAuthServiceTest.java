@@ -152,4 +152,5 @@ class UserAuthServiceTest {
             verify(securityContext).getAuthentication();
         }
     }
+
 }

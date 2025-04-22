@@ -255,4 +255,5 @@ class UserServiceTest {
             verify(userRepository).deleteById(userEntity.getId());
         }
     }
+
 }
